@@ -1,6 +1,6 @@
 ## Full Stack Software Engineering |
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.your-nimba005)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=nimba005.nimba005)
 
 ## About Me:
 I am currently involved in acquiring knowledge and skills to become a Software Engineer.
