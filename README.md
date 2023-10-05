@@ -1,5 +1,6 @@
 ## Full Stack Software Engineering |
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=nimba005.nimba005)
 
 ## About Me:
