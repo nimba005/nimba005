@@ -13,7 +13,7 @@ I am a software engineering student at Alx Africa, currently learning several pr
 * 🧠  I'm learning as many things as I can about software engineering.
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://github.com/nimba005 target="_blank" rel="noreferrer"><img
+<a href="https://github.com/nimba005" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nimba005?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://twitter.com/nimbajohn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nimbajohn_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
